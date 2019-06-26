@@ -1,5 +1,6 @@
 # js-android-vs-apple
 Start Code and Instructions for JS Android vs Apple Assignment
+<hr>
 
 <p>Make the Android vs Apple web page interactive by completing the following...</p>
 
